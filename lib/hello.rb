@@ -1,4 +1,4 @@
-def hello_t(name)
+def hello_t
 
   ["Tim", "Tom", "Jim"].each do |name|
     if name.start_with?("T")
